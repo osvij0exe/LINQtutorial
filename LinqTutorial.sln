@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqTutorial", "LinqTutorial.csproj", "{33A1F888-B122-4355-9DB7-BEE387731A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQMethods", "..\LINQMethods\LINQMethods.csproj", "{D1E92FC4-08B1-4E6D-BA88-B12A4A78236E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A1F888-B122-4355-9DB7-BEE387731A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A1F888-B122-4355-9DB7-BEE387731A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A1F888-B122-4355-9DB7-BEE387731A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A1F888-B122-4355-9DB7-BEE387731A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E92FC4-08B1-4E6D-BA88-B12A4A78236E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E92FC4-08B1-4E6D-BA88-B12A4A78236E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E92FC4-08B1-4E6D-BA88-B12A4A78236E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E92FC4-08B1-4E6D-BA88-B12A4A78236E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E763325-CBA1-4DE8-A8B6-D5A2F7453CF4}
+	EndGlobalSection
+EndGlobal
